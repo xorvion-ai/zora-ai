@@ -84,7 +84,7 @@ zora-app/
 
 ## 🏢 About
 
-Built by **Xorvion** — an independent, solo startup based in Noida, India, making tools we want to use ourselves. Zora is our flagship assistant.
+Built by **Xorvion Pvt Ltd** — based in Noida, India and founded by Sumit Kumar, making tools we want to use ourselves. Zora is our flagship assistant.
 
 🌐 **Website:** [xorvion-ai.vercel.app](https://xorvion-ai.vercel.app/)  
 🔗 **LinkedIn:** [linkedin.com/company/xorvion](https://linkedin.com/company/xorvion)  
