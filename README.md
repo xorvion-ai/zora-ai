@@ -3,6 +3,7 @@
 **Zora** is a free-tier AI chat assistant built by **[Xorvion](mailto:xorvion.ai@gmail.com)**. It streams responses from Google's Gemini models, remembers your conversations, reads the files you upload, and wraps it all in a fast, dark, brushed-steel interface.
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-zora--chatbot.vercel.app-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zora-chatbot.vercel.app/)
+[![Get it on Google Play](https://img.shields.io/badge/Android_App-Coming_Soon_to_Google_Play-3ddc84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.xorvion.zora)
 
 ---
 
