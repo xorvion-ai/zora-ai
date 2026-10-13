@@ -2,8 +2,8 @@
 
 **Zora** is a free-tier AI chat assistant built by **[Xorvion](mailto:xorvion.ai@gmail.com)**. It streams responses from Google's Gemini models, remembers your conversations, reads the files you upload, and wraps it all in a fast, dark, brushed-steel interface.
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-zora--chatbot.vercel.app-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zora-chatbot.vercel.app/)
-[![Get it on Google Play](https://img.shields.io/badge/Android_App-Coming_Soon_to_Google_Play-3ddc84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.xorvion.zora)
+[![Live Web App](https://img.shields.io/badge/▶_Live_Web_App-zora--chatbot.vercel.app-2ea043?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zora-chatbot.vercel.app/)
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-3ddc84?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzQyODVGNCIgZD0iTTMgMnYyMGwxMC0xMHoiLz48cGF0aCBmaWxsPSIjMzRBODUzIiBkPSJNMyAybDEyLjg2IDcuMTRMMTMgMTJ6Ii8%2BPHBhdGggZmlsbD0iI0VBNDMzNSIgZD0iTTMgMjJsMTIuODYtNy4xNEwxMyAxMnoiLz48cGF0aCBmaWxsPSIjRkJCQzA0IiBkPSJNMTUuODYgOS4xNEwyMSAxMmwtNS4xNCAyLjg2TDEzIDEyeiIvPjwvc3ZnPgo%3D&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.xorvion.zora)
 
 ---
 
@@ -85,7 +85,7 @@ zora-app/
 
 ## 🏢 About
 
-Built by **Xorvion Pvt Ltd** — based in Noida, India and founded by Sumit Kumar, making tools we want to use ourselves. Zora is our flagship assistant.
+Built by **Xorvion** — founded by Sumit Kumar, making tools we want to use ourselves. Zora is our flagship assistant.
 
 🌐 **Website:** [xorvion-ai.vercel.app](https://xorvion-ai.vercel.app/)  
 🔗 **LinkedIn:** [linkedin.com/company/xorvion](https://linkedin.com/company/xorvion)  
