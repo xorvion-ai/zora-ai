@@ -1463,7 +1463,7 @@ export function SiteFooter() {
           letterSpacing: '0.1em',
         }}
       >
-        <span>© 2026 XORVION PVT LTD · ALL RIGHTS RESERVED</span>
+        <span>© 2026 XORVION · ALL RIGHTS RESERVED</span>
         <span>XORVION.AI@GMAIL.COM</span>
       </div>
     </div>
